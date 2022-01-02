@@ -4,6 +4,8 @@ Mobile app for the Hyperfolio (android). Webview based, built with Rust and Kotl
 
 This is a Proof-Of-Concept for integrating Rust in Android Apps.
 
+Screenshots:
+![screenshot](screenshot-example.png)
+
 ![screenshot](screenshot-hello-world.png)
 
-![screenshot](screenshot-example.png)
